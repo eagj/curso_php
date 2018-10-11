@@ -7,13 +7,13 @@
  */
 
 class Peliculas{
-    #PROPIEDADES
-    public $titulo;
+    #PROPIEDADES, ATRIBUTOS O CAMPOS
+    var $titulo; //No es necesario declararla como public, ya que si no se pone nada es public
     public $year;
 
     #METODO
     public function peli(){
-        echo "<p> Peli titulada $this->titulo,  del año $this->year</p>";
+        echo "<p> Peli titulada $this->titulo, del año $this->year</p>";
     }
 }
 
@@ -23,6 +23,7 @@ $a= new Peliculas();
 $a -> titulo = "Blade Runner";
 $a -> year = "1982";
 $a -> peli();
+
 #OBJETO2
 $b= new Peliculas();
 $b -> titulo = "Blade Runner 2049";
