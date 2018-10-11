@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ufopi.ddns.net" uploadOnCheckin="7d4f00f9-bd71-4891-b462-b3da44e90e17">
+    <serverData>
+      <paths name="ufopi.ddns.net">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="ufopi.ddns.net" />
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

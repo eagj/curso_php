@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7d4f00f9-bd71-4891-b462-b3da44e90e17" name="ufopi.ddns.net" url="http://ufopi.ddns.net:8090/cursophp">
+        <fileTransfer host="ufopi.ddns.net" port="22" rootFolder="/media/gitprojects/www/cursophp" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
